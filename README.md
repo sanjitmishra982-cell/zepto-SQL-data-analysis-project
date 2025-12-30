@@ -76,7 +76,9 @@ This project works with messy, real-world retail data, similar to what companies
 # ▶️ How to Run
 
 1️⃣ Clone the repository
+
 2️⃣ Import the dataset into PostgreSQL
+
 3️⃣ Execute the SQL scripts step by step
 
 ## 👤 Author
